@@ -2,7 +2,7 @@
 
 A responsive and clean personal portfolio website built from scratch with HTML and CSS. This site serves as a central hub to showcase my projects, background, and professional resume for internship opportunities.
 
-**Live Demo: [https://yourusername.github.io](https://yourusername.github.io)**
+**Live Demo: [https://yourusername.github.io](https://ozias-tumimana.github.io/)**
 
 ![Website Screenshot](img/screenshot.png) <!-- Take a screenshot and add it to your img/ folder -->
 
