@@ -37,8 +37,8 @@ This is a living project. Planned future updates include:
 ## 📞 Connect With Me
 
 *   **LinkedIn:** [Connect With Me On Linkedin!](https://www.linkedin.com/in/ozias-tumimana-4a1bb42a4/)
-*   **Email:** [Send me an Email](mailto:oziast@uw.edu)
-*   **GitHub:** [Check Out My GitHub](https://github.com/Ozias-Tumimana)
+*   **Email:** [Send me an Email!](mailto:oziast@uw.edu)
+*   **GitHub:** [Check Out My GitHub!](https://github.com/Ozias-Tumimana)
 
 ---
 
