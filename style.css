@@ -1,0 +1,154 @@
+/*
+Name: Ozias Tumimana
+Date: 08.26.24
+Section: CSE 190e
+This is the style.css page for my portfolio of web development
+work. It is used by all pages in my portfolio to give the site
+a consistent look and feel.
+*/
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.pagecontent {
+    background-image: url("img/backgroundcolor.jpg");
+    /* font-family: "Helvetica, Arial, Verdana, Tahoma, sans-serif"; */
+}
+
+.wrapper {
+    width: 90%;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    width: 100%;
+    height: 100px;
+    background-image: url("img/headerbackground.jpg");
+    /* Found at https://colors.dopely.top/fa/color- e4 pedia/b1ea */
+    position: absolute;
+}
+
+h1 {
+    color: white;
+    line-height: 40px;
+    font-size: 33px;
+    margin-top: 25px;
+}
+
+.logo {
+    display: flex;
+    width: 30%;
+    float: left;
+    text-align: left;
+    line-height: 30px;
+    text-decoration: none;
+    color: white;
+}
+
+nav {
+    float: right;
+    line-height: 100px;
+}
+
+nav a {
+    text-decoration: none;
+    letter-spacing: 4px;
+    font-size: 20px;
+    color: white;
+    padding: 36px 50px;
+    margin: 0 1px;
+}
+
+.maincontent {
+    flex: 1;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    padding: 20px;
+    gap: 20px;
+    text-align: center;
+    flex-direction: column;
+}
+
+.senior {
+    margin-top: 100px;
+    display: block;
+    height: auto;
+    width: 30%;
+    margin-left: auto;
+    border: 5px solid #CAF4F0;
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+.text-paragraph {
+    flex-direction: column;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 5px;
+}
+
+.lists {
+    flex-direction: column;
+    gap: 10px;
+    display: flex;
+    align-items: end;
+    align-content: end;
+    justify-content: flex-end;
+}
+
+#resume {
+    margin-top: 100px;
+    display: block;
+    height: auto;
+    width: 40%;
+    margin-left: auto;
+    border: 5px solid #CAF4F0;
+    margin-right: auto;
+}
+
+#gmail {
+    margin-top: 100px;
+    display: block;
+    height: auto;
+    width: 500px;
+    border: 5px solid #CAF4F0;
+    margin-right: auto;
+}
+
+#instagram {
+    margin-top: 100px;
+    display: block;
+    height: auto;
+    width: 500px;
+    border: 5px solid #CAF4F0;
+    margin-right: auto;
+}
+
+.footer {
+    background-image: url("img/footerbackground.jpg");
+    /* Creative Commons Image */
+    padding-bottom: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+    align-items: center;
+}
+
+.citation {
+    font-size: 15px;
+    color: black;
+}
+
+#signature {
+    width: 8%;
+    height: 8%;
+}
