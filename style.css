@@ -137,8 +137,6 @@ h2 {
 .footer {
     background-image: url("img/footerbackground.jpg");
     /* Creative Commons Image */
-    padding-bottom: 30px;
-    margin-bottom: 50px;
     text-align: center;
     align-items: center;
 }
@@ -151,4 +149,5 @@ h2 {
 #signature {
     width: 8%;
     height: 8%;
+
 }
